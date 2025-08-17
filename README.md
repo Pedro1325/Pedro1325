@@ -1,20 +1,57 @@
+<h1 align="center">✨ Olá, eu sou o Pedro Henrique </h1>
 
-### Olá eu sou o Pedro Henrique 😎
+<div align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Mulher programando" />
+</div>
 
+<p align="center">
+  Desenvolvedor <b>Front-end</b> apaixonado por criar interfaces modernas, interativas e responsivas. 🚀  
+</p>
 
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/6xphzin/?igsh=bHIxaG56ZnVqcGQz&utm_source=qr)
-[![Blog](    https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-6101a034a/)
+<div align="center">
+  
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/6xphzin/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-6101a034a/)
+  
+</div>
 
+---
 
+## 🚀 Tecnologias que eu domino
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,git,github,linux,vscode" />
+</div>
 
-### Tecnologias que eu utilizo
+---
 
-<div style="display: inline_block"><br/>
-<img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-<img align="center" alt="html5" src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-<img align="center" alt="html5" src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
-<img align="center" alt="html5" src=https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white />
-<img align="center" alt="html5" src=https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB />
-<img align="center" alt="html5" src=    https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white />
-</div><br/>
+## 📊 Estatísticas do GitHub  
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro1325&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro1325&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
+
+---
+
+## 🎯 Sobre mim
+
+- 💡 Sempre buscando aprender e criar projetos inovadores  
+- 🎨 Amo transformar ideias em experiências visuais únicas  
+- 📚 Atualmente estudando **React + Node.js**  
+- ⚡ Fun fact: Eu programo melhor ouvindo música 🔊  
+
+---
+
+## 🌎 Projetos em Destaque
+
+👉 [**AdotePet**](https://github.com/Pedro1325/Petloves) - Site para adoção de animais 🐶🐱  
+👉 [**Drinks do Mundo**](https://github.com/Pedro1325/Drinks-do-Mundo) - Inspirado no Absolut Drinks 🍸  
+
+---
+
+<div align="center">
+  
+  ✨ _"Code is poetry, design is emotion."_ ✨
+  
+</div>
