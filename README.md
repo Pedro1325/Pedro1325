@@ -1,4 +1,4 @@
-<h1 align="center">✨ Olá, eu sou o Pedro Henrique </h1>
+<h1 align="center"> Olá, eu sou o Pedro Henrique </h1>
 
 <div align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Mulher programando" />
