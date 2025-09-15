@@ -1,8 +1,5 @@
 <h1 align="center"> Olá, eu sou o Pedro Henrique </h1>
 
-<div align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Mulher programando" />
-</div>
 
 <p align="center">
   Desenvolvedor <b>Front-end</b> apaixonado por criar interfaces modernas, interativas e responsivas. 🚀  
@@ -43,10 +40,7 @@
 
 ---
 
-## 🌎 Projetos em Destaque
 
-👉 [**AdotePet**](https://github.com/Pedro1325/Petloves) - Site para adoção de animais 🐶🐱  
-👉 [**Drinks do Mundo**](https://github.com/Pedro1325/Drinks-do-Mundo) - Inspirado no Absolut Drinks 🍸  
 
 ---
 
