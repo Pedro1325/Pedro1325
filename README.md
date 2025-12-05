@@ -36,7 +36,6 @@
 - 💡 Sempre buscando aprender e criar projetos inovadores  
 - 🎨 Amo transformar ideias em experiências visuais únicas  
 - 📚 Atualmente estudando **React + Node.js**  
-- ⚡ Fun fact: Eu programo melhor ouvindo música 🔊  
 
 ---
 
