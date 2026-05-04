@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Tecnologias que eu domino
+## 🚀 Stacks dominates
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,git,github,linux,vscode" />
