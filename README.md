@@ -14,10 +14,10 @@
 
 ---
 
-## 🚀 Stacks dominates
+##  Stacks dominates
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,php,git,github,linux,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,php,angular,tailwind,git,github,linux,vscode" />
 </div>
 
 ---
