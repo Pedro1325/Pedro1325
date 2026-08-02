@@ -57,7 +57,6 @@
 <h2 align="center"> Mais Sobre mim no GitHub</h2>
 
 <details open>
-<summary><b>Status Públicos do Github</b></summary>
 <br>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro1325&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
