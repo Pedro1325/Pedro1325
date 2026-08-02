@@ -71,8 +71,4 @@
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
 </picture>
 
-<div align="center">
-  <img align="center" alt="Contador de visitas" src="https://profile-counter.glitch.me/Pedro1325/count.svg" />
-</div>
-
 <h6 align="center">Show  by  my repositories!</h6>
