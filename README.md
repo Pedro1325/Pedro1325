@@ -5,10 +5,10 @@
 <h1 align="center">Olá, eu sou o Pedro Henrique</h1>
 
 <p align="center">
-  Desenvolvedor <b>Front-end</b> apaixonado por criar interfaces modernas, interativas e responsivas. 🚀
+  Desenvolvedor <b>Front-end</b> apaixonado por criar interfaces modernas, interativas e responsivas. 
 </p>
 
-<h2 align="center"> Conecte-se Comigo</h2>
+<h2 align="center">Conecte-se Comigo</h2>
 
 <div align="center">
 
@@ -21,11 +21,13 @@
 
 <div align="center">
 
-<h2 align="center"> Linguagens e Ferramentas</h2>
+<h2 align="center">🛠️ Linguagens e Ferramentas</h2>
 
 <details open>
-<summary><b> Frontend</b></summary>
+<summary><b>🏄‍♂️ Frontend</b></summary>
 <br>
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/Javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;
@@ -36,7 +38,7 @@
 </details>
 
 <details open>
-<summary><b> Backend / Linguagens</b></summary>
+<summary><b>Backend / Linguagens</b></summary>
 <br>
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
@@ -46,22 +48,16 @@
 </details>
 
 <details open>
-<summary><b>💻 Software and Tools</b></summary>
+<summary><b>Software and Tools</b></summary>
 <br>
 
-![Git](https://img.shields.io/badge/-git-red?style=for-the-badge&logo=Git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)&nbsp;
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-VSCODE-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-
-</details>
 
 <br>
 
 <h2 align="center"> Mais Sobre mim no GitHub</h2>
 
 <details open>
-<summary><b> Status Públicos do Github</b></summary>
+<summary><b>Status Públicos do Github</b></summary>
 <br>
 <p align="center">
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro1325&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
