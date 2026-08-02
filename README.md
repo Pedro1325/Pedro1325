@@ -1,55 +1,60 @@
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=22&duration=3000&pause=800&color=39FF14&background=000000&center=true&vCenter=true&width=600&height=60&lines=SYSTEM+ONLINE...;WHOAMI%3A+PEDRO+HENRIQUE;ROLE%3A+FRONT-END+DEVELOPER;ACCESS+GRANTED_" alt="typing-svg" />
-
-</div>
-
-<div align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=45&duration=2500&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&height=90&lines=PEDRO+HENRIQUE" alt="nome-typing" />
 </div>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/-●%20ONLINE-000000?style=for-the-badge&labelColor=000000&color=39FF14" />
-  <img src="https://img.shields.io/badge/root%40portfolio:~%23-000000?style=for-the-badge&labelColor=000000&color=39FF14" />
+  Desenvolvedor <b>Front-end</b> apaixonado por criar interfaces modernas, interativas e responsivas. 🚀
 </p>
-
----
-
-### `> cat sobre_mim.txt`
-
-```bash
-$ whoami
-Pedro Henrique — Desenvolvedor Front-end
-
-$ status
-Apaixonado por criar interfaces modernas, interativas e responsivas 🚀
-
-$ mission
-</div>
-
----
-> connect --socials
 
 <div align="center">
 
-  Instagram (https://img.shields.io/badge/-Instagram-000000?style=for-the-badge&logo=instagram&logoColor=39FF14&labelColor=000000) (https://www.instagram.com/6xphzin/)
-  LinkedIn (https://img.shields.io/badge/-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39FF14&labelColor=000000) (https://www.linkedin.com/in/pedro-henrique-6101a034a/)
+  [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/6xphzin/)
+  [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-6101a034a/)
 
 </div>
 
 ---
-> git log --stats
 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
+## 🛠️ Stacks dominadas
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,python,php,angular,tailwind,cs,git,github,linux,vscode" />
+</div>
+
+---
+
+## 📊 Estatísticas do GitHub
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro1325&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro1325&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</div>
+
+<div align="center">
+
+[![GitHub Workflow Status](https://img.shields.io/github/actions/workflow/status/platane/platane/main.yml?label=action&style=flat-square)](https://github.com/Platane/Platane/actions/workflows/main.yml)
+[![GitHub release](https://img.shields.io/github/release/platane/snk.svg?style=flat-square)](https://github.com/platane/snk/releases/latest)
+[![GitHub marketplace](https://img.shields.io/badge/marketplace-snake-blue?logo=github&style=flat-square)](https://github.com/marketplace/actions/generate-snake-game-from-github-contribution-grid)
+![type definitions](https://img.shields.io/npm/types/typescript?style=flat-square)
+![code style](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)
+
+</div>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
 </picture>
 
----
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3500&pause=1200&color=39FF14&background=000000&center=true&vCenter=true&width=650&height=40&lines=CONNECTION+CLOSED...;THANKS+FOR+VISITING%2C+HACKER." alt="footer-typing" />
-</div>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Pedro1325&style=for-the-badge&color=39FF14&label=VISITORS&labelColor=000000" alt="visitor count" />
-</p>
-```
+  <img src="https://readme-typing-svg.demolab.com/?font=Press+Start+2P&size=14&duration=3500&pause=1200&color=39FF14&background=000000&center=true&vCenter=true&width=650&height=40&lines=THANKS+FOR+VISITING." alt="footer-typing" />
+</div>****
