@@ -24,7 +24,7 @@
 <h2 align="center">🛠️ Linguagens e Ferramentas</h2>
 
 <details open>
-<summary><b>🏄‍♂️ Frontend</b></summary>
+<summary><b> Frontend</b></summary>
 <br>
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
