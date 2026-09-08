@@ -54,20 +54,4 @@
 
 <br>
 
-<h2 align="center"> Mais Sobre mim no GitHub</h2>
 
-<details open>
-<br>
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Pedro1325&show_icons=true&theme=radical&hide_border=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro1325&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</p>
-</details>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<h6 align="center">Show  by  my repositories!</h6>
